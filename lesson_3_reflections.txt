@@ -3,4 +3,9 @@ When you need to access your repo on another computer, or want to share with som
 
 Why might you want to always pull changes manually rather than having Git automatically
 stay up-to-date with your remote repository?
-Might still be working on your local directory and don't want to merge just yet. 
+Might still be working on your local directory and don't want to merge just yet.
+
+Describe the differences between forks, clones, and branches. When would you use
+one instead of another?
+Forks - allow to copy someone's repo on github w/out affecting original
+Clone - allows to download repo on github
